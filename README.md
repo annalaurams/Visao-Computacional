@@ -23,4 +23,10 @@ Este repositório contém os scripts utilizados nas aulas de Visão Computaciona
 - **Aula7.m**  
   Lê uma imagem de arquivo, realiza espelhamentos e rotações de 90° e 180°.
 
----
+## Atividades
+
+- **Atividade 1**  
+  Consiste na criação de imagens aleatórias em tons de cinza e RGB, utilizando matrizes com valores de intensidade de pixels. 
+
+- **Atividade 3**  
+  Envolve a aplicação de filtros convolucionais em imagens, tanto em escala de cinza quanto em RGB. Além disso, são utilizados conceitos como padding e normalização para preservar o tamanho da imagem e melhorar a visualização dos resultados.
