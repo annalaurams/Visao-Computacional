@@ -22,8 +22,8 @@ Este repositório contém os scripts utilizados nas aulas de Visão Computaciona
 
 - **Aula7.m**  
   Lê uma imagem de arquivo, realiza espelhamentos e rotações de 90° e 180°.
-
-  - **Aula8.m**  
+  
+- **Aula8.m**  
   Aplica filtros de convolução clássicos como o Laplaciano (realce de bordas) e o Gaussiano (suavização). Em seguida, é utilizado um filtro de máximo com janela 3x3 para realçar regiões de maior intensidadee e ainda é usado o operador de Sobel.
 
 
