@@ -37,4 +37,6 @@ Este repositório contém os scripts utilizados nas aulas de Visão Computaciona
 
 - **Atividade 4**  
   São aplicados filtros do tipo passa-alta e passa-baixa com variação de parâmetros. No item (a), é utilizado o filtro Sobel para extração de bordas. No item (b), é aplicado o filtro Average (média). No item (c), o filtro Gaussiano é testado com diferentes tamanhos de máscara e desvios padrão (σ), mostrando como o alisamento pode ser controlado de forma mais precisa.
-
+  
+- **Atividade 5**  
+O experimento apresenta um modelo SVM linear treinado para classificar imagens com listas verticais e horizontais sob alto nível de ruído e desalinhamento, com a visualização realizada após redução de dimensionalidade via PCA.
