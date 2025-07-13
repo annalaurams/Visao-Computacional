@@ -32,11 +32,14 @@ Este repositório contém os scripts utilizados nas aulas de Visão Computaciona
 - **Atividade 1**  
   Consiste na criação de imagens aleatórias em tons de cinza e RGB, utilizando matrizes com valores de intensidade de pixels. 
 
-- **Atividade 3**  
+- **Atividade 2**  
   Envolve a aplicação de filtros convolucionais em imagens, tanto em escala de cinza quanto em RGB. Além disso, são utilizados conceitos como padding e normalização para preservar o tamanho da imagem e melhorar a visualização dos resultados.
 
-- **Atividade 4**  
+- **Atividade 3**  
   São aplicados filtros do tipo passa-alta e passa-baixa com variação de parâmetros. No item (a), é utilizado o filtro Sobel para extração de bordas. No item (b), é aplicado o filtro Average (média). No item (c), o filtro Gaussiano é testado com diferentes tamanhos de máscara e desvios padrão (σ), mostrando como o alisamento pode ser controlado de forma mais precisa.
+
+- **Atividade 4**  
+Realiza a segmentação semântica de vídeo em cenário urbano utilizando um modelo pré-treinado baseado em DeepLabV3 + MobileNetV2. O vídeo é processado com diferentes taxas de amostragem, e é gerado um novo vídeo com as segmentações sobrepostas. Além disso, são coletados e analisados os tempos de processamento por frame, permitindo avaliar o impacto da amostragem na eficiência computacional.
   
 - **Atividade 5**  
 O experimento apresenta um modelo SVM linear treinado para classificar imagens com listas verticais e horizontais sob alto nível de ruído e desalinhamento, com a visualização realizada após redução de dimensionalidade via PCA.
