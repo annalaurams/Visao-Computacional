@@ -1,6 +1,13 @@
 # Visão Computacional — Scripts de Aula
 
-Este repositório contém os scripts utilizados nas aulas de Visão Computacional. Abaixo está a descrição de cada arquivo:
+Este repositório contém os scripts utilizados nas aulas de Visão Computacional.
+
+## 🔗 Projeto Final: Classificador Multiclasse de Animais
+
+Este repositório está associado ao projeto [**Classificador Multiclasse de Animais**](https://github.com/annalaurams/Classificador_multiclasse_animais), que utiliza técnicas de **Visão Computacional** e **Aprendizado de Máquina** para a **classificação de imagens** de diferentes espécies.  
+O sistema aplica modelos como **MobileNetV2** e **Random Forest**, com uso do **aumento de dados (Data Augmentation)** e **métricas de avaliação** como acurácia, precisão, revocação e F1-score.  
+
+## 🔍 Conteúdo Aulas
 
 - **Aula1.m**  
   Gera e exibe matrizes de imagens aleatórias em tons de cinza 
