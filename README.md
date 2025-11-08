@@ -1,4 +1,4 @@
-# Visão Computacional — Scripts de Aula
+# Visão Computacional 
 
 Este repositório contém os scripts utilizados nas aulas de Visão Computacional.
 
